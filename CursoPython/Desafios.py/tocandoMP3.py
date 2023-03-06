@@ -17,3 +17,4 @@ while pygame.mixer.music.get_busy():
 
 # Finaliza o módulo Pygame
 pygame.quit()
+ 
